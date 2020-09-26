@@ -1,0 +1,8 @@
+World			世界类 主入口
+
+HeroAirplane	玩家飞机
+HeroBullet	玩家子弹
+
+Enemy			敌人飞机
+EnemyBoss		敌人BOSS
+EnemyBullet	敌人子弹
